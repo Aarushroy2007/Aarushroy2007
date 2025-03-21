@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aarushroy2007
+- 👋 Hi, I’m Aarush Roy
 - 👀 I’m interested in leraaning to code and creat new things
 - 🌱 I’m currently learning HTML and CSS
 - 💞️ I’m looking to collaborate on ...
